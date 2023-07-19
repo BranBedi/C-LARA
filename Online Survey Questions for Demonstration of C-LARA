@@ -1,0 +1,47 @@
+Online Survey for the Demonstration of C-LARA Project
+	Questions
+
+1.	On a scale of 1-5 please rate your prior knowledge and experience with the LARA and C-LARA projects. (1= highest level, 5=lowest level)
+2.	On a scale of 1-5 how would you rate your technical understanding of the C-LARA project? (1= highest level, 5=lowest level)
+3.	Do you have any coding or programming background? If yes, please briefly describe
+4.	Have you interacted with ChatGPT or any similar AI models before? If so, in what context?
+5.	Did ChatGPT-4 request to see any files beyond the README?
+6.	If you answered Yes to the previous question, which files did ChatGPT-4 request?	
+7.	On a scale of 1-5, how relevant did you find the discussion with ChatGPT-4 to your queries and ideas about C-LARA? (1 = most relevant; 5 = least relevant)
+8.	Did the conversation with ChatGPT-4 help to further your understanding of the potential for additional functionality in C-LARA?
+9.	On a scale of 1-5, how well do you think ChatGPT-4 understood the context of your queries about C-LARA? (1 = most well; 5 = least well)
+10.	Were there any misunderstandings or incorrect responses during the conversation with ChatGPT-4?
+11.	Did you find the responses from ChatGPT-4 clear and easy to understand?
+12.	On a scale of 1-5, rate the overall quality of responses provided by ChatGPT-4. (1 = highest quality; 5 = lowest quality)
+13.	Do you feel that the conversation with ChatGPT-4 helped in assessing the feasibility of your proposed ideas for C-LARA?
+14.	How would you rate ChatGPT-4's helpfulness in discussing potential additional functionality for C-LARA? (1 = most helpful; 5 = least helpful)
+15.	On a scale of 1-5, how satisfied were you about the discussion you had with ChatGPT-4 about C-LARA? (1 = most satisfied; 5 = least satisfied)
+16.	Your gender identity
+17.	Your current occupation
+18.	How long have you been using LARA? (Please write number in months, if less than a month then write 1 as your answer).	
+19.	How long have you been using ChatGPT or similar AI models? (Please write number in months, if less than a month then write 1 as your answer).	
+20.	Please describe your experience in designing features for online educational tools or similar.	
+21.	On a scale of 1-5, how would you rate your proficiency in programming? (1 = most proficient; 5 = least proficient)	
+22.	On a scale of 1-5, how would you rate your proficiency in designing features for online educational tools or similar? (1 = most proficient; 5 = least proficient)	
+23.	On a scale of 1-5, how would you rate your proficiency in using ChatGPT or similar AI models? (1 = most proficient; 5 = least proficient).	
+24.	How frequently do you use the LARA portal? Provide a short answer and mention occasions when you use it.	
+25.	How frequently do you use ChatGPT or similar AI models? Provide a short answer and mention occasions when you use it.	
+26.	How frequently do you design features for online educational tools or similar? Provide a short answer and mention some examples, if any.	
+27.	Which version of ChatGPT did you use? (e.g., ChatGPT-4)	
+28.	On a scale of 1 to 5, do you thinthat ChatGPT is effective in discussing features for C-LARA? (1 = High Effective, 5 = Low ineffective)	
+29.	Did ChatGPT provide any valuable advice on novel or enhanced features for C-LARA? Please provide a short answer describing your experience.	
+30.	On a scale of 1-5, how would you rate the speed and efficiency of using ChatGPT for gathering information about C-LARA? (1 = very high; 5 = very low).	
+31.	Do you believe using ChatGPT to discuss technical features of C-LARA is advantageous for the development of C-LARA?	
+32.	Do you think using ChatGPT makes it easier to discuss pedagogically relevant features for language learning in C-LARA?	
+33.	How important do you think AI technology is in the development of online tools for both non-technical and technical users? (1 = most important; 5 = least important)
+34.	How long did your conversation with ChatGPT about the C-LARA project last? (in minutes)	
+35.	Please briefly describe the reasons for ending the conversation with ChatGPT about the C-LARA project.	
+36.	On a scale of 1-5, how confident do you feel in using ChatGPT for tasks related to the C-LARA project? (1 = most confident; 5 = least confident).	
+37.	On a scale of 1-5, how confident do you feel in learning new ways of developing language tools through ChatGPT? (1 = most confident; 5 = least confident). 	
+38.	Did you enjoy talking to ChatGPT and discussing relevant issues related to the C-LARA project?	
+39.	How would you rate the helpfulness of ChatGPT in enhancing your understanding of non-technical and technical issues of the C-LARA project? (1= most useful; 5 = least useful)	
+40.	Do you believe that ChatGPT has the potential to be a useful development tool for the C-LARA project?	 
+41.	How confident are you about the answers provided by ChatGPT related to the C-LARA project? (1 = most confident; 5 = least confident)	
+42.	Overall, how satisfied were you with the discussion you had with ChatGPT about the C-LARA project? (1 = most satisfied; 5 = least satisfied)	
+43.	Would you be open to having more interactions with ChatGPT to discuss the C-LARA or similar projects in the future?	
+44.	Please provide any additional feedback or suggestions you have regarding the use of ChatGPT in discussing C-LARA or any other thoughts you would like to share about the project.						
